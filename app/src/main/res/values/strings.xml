@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task 2</string>
+    <string name="register_title">Регистрация</string>
+    <string name="hint_name">Имя пользователя</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_password_confirm">Подтвердите пароль</string>
+    <string name="checkbox_terms">Я согласен с условиями использования</string>
+    <string name="btn_register">Зарегистрироваться</string>
+</resources>
